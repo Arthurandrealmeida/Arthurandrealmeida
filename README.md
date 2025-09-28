@@ -1,3 +1,11 @@
+## About Me
+I’m Arthur, a self-taught software developer experienced in C#, JavaScript, and web technologies. I’m expanding my skills through personal projects and eager to contribute to innovative teams in software development.
+
+### Skills  <br>
+   * Languages: C#, HTML, CSS, JavaScript
+   *  Version Control: Git
+   *  Software Development: Agile methodologies
+
 <h2 align="left">Stats</h2>
 
 ###
