@@ -32,5 +32,9 @@ I’m Arthur, a self-taught software developer experienced in C#, JavaScript, an
 </div>
 
 ###
-
+             _.-;;-._ 
+      '-..-'|   ||   |
+      '-..-'|_.-;;-._|
+      '-..-'|   ||   |
+      '-..-'|_.-''-._|
 ###
