@@ -25,6 +25,10 @@ I’m Arthur, a self-taught software developer experienced in C#, JavaScript, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="css logo"  /> 
 </div>
 
+
+#### Contributing to
+
+
 ###
              _.-;;-._ 
       '-..-'|   ||   |
