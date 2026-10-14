@@ -8,6 +8,6 @@
 
 ## Repositories I've Contributed To
 
-| Repository | Stars | Contribution |
-|---|---|---|
-| |
+| Repository | Contribution |
+|---|---|
+| [spotifast](https://github.com/crmne/spotifast) | Updated the localization coverage documentation for all 15 complete language catalogs. [Accepted by the maintainer](https://github.com/crmne/spotifast/pull/887#issuecomment-3399427840); included in version 0.13.2. |
